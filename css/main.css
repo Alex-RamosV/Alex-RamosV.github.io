@@ -564,7 +564,8 @@ body {
    [10]. Footer
 ========================== */
 .footer {
-        padding: 12px 12px 12px 12x;
+        padding-top: 12px;
+        padding-bottom: 12px;
     background: #242527;
 }
 
@@ -577,8 +578,7 @@ body {
     color: #ffffff;
     font-size: 14px;
     font-weight: 300;
-    margin: 0;
-    margin-top: 15px;
+    margin: 4;
 }
 
 
