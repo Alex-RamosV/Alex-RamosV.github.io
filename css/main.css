@@ -141,7 +141,7 @@ body {
 ========================== */
 
 .about-me {
-    padding: 80px 0;
+    padding: 80px;
     background: #2d2e2e;
 }
 
@@ -236,7 +236,7 @@ body {
 ========================== */
 
 .some-facts {
-    padding: 80px 0;
+    padding: 80px;
     color: #ffffff;
     background: url('../img/bg/some-facts-bg.png') center center no-repeat;
     background-size: cover;
@@ -445,7 +445,7 @@ body {
 ========================== */
 
 .blog {
-    padding: 80px 0;
+    padding: 80px;
     background: #2d2e2e;
 }
 
@@ -516,7 +516,7 @@ body {
 ========================== */
 
 .contact {
-    padding: 0 0 80px 0;
+    padding: 80px;
     background: #2d2e2e;
 }
 
