@@ -141,7 +141,7 @@ body {
 ========================== */
 
 .about-me {
-    padding: 130px 0;
+    padding: 80px 0;
     background: #2d2e2e;
 }
 
@@ -190,7 +190,7 @@ body {
    [04]. Services
 ========================== */
 .services {
-    padding-bottom: 90px;
+    padding: 80px;
     background: #2d2e2e;
 }
 
@@ -236,7 +236,7 @@ body {
 ========================== */
 
 .some-facts {
-    padding: 130px 0;
+    padding: 80px 0;
     color: #ffffff;
     background: url('../img/bg/some-facts-bg.png') center center no-repeat;
     background-size: cover;
@@ -274,7 +274,7 @@ body {
 ========================== */
 
 .portfolio {
-    padding: 130px 0 95px 0;
+    padding: 80px 0 96px 0;
     background: #2d2e2e;
 }
 
@@ -370,7 +370,7 @@ body {
     background: url('../img/bg/testimonials-bg.png') center center no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    padding: 130px 0 170px 0;
+    padding: 80px 0 120px 0;
 }
 
 .testimonials h2 {
@@ -445,7 +445,7 @@ body {
 ========================== */
 
 .blog {
-    padding: 130px 0;
+    padding: 80px 0;
     background: #2d2e2e;
 }
 
@@ -516,7 +516,7 @@ body {
 ========================== */
 
 .contact {
-    padding: 0 0 130px 0;
+    padding: 0 0 80px 0;
     background: #2d2e2e;
 }
 
