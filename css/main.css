@@ -28,7 +28,7 @@ body {
    [01]. Navbar
 ========================== */
 .navbar {
-    background: #dddddd !important;
+    background: #1965dd !important;
     padding: 25px 0;
 }
 
@@ -43,7 +43,7 @@ body {
 }
 
 .navbar .nav-item .nav-link:hover {
-    color: #0033a0;
+    color: #e0a80d;
 }
 .navbar .navbar-nav .dropdown .dropdown-menu {
     margin-top: 25px;
