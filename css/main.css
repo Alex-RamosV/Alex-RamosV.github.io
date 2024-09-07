@@ -39,11 +39,11 @@ body {
 }
 
 .navbar .nav-item .nav-link {
-    color: #0033a0;
+    color: #ffffff;
 }
 
 .navbar .nav-item .nav-link:hover {
-    color: #ffffff;
+    color: #0033a0;
 }
 .navbar .navbar-nav .dropdown .dropdown-menu {
     margin-top: 25px;
