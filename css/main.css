@@ -223,7 +223,7 @@ body {
 
 .services .box p {
     font-size: 14px;
-    color: #bac8d3;
+    color: #ffffff;
     font-weight: 400;
     line-height: 26px;
     padding: 0;
@@ -498,7 +498,7 @@ body {
 
 .blog .box h4 {
     font-size: 13px;
-    font-weight: 300;
+    font-weight: 600;
     color: #e0a80d;
     margin-bottom: 20px;
     margin-top: 10px;
@@ -507,7 +507,7 @@ body {
 .blog .box p {
     font-size: 14px;
     font-weight: 400;
-    color: #bdbfc0;
+    color: #ffffff;
     line-height: 26px;
 }
 
