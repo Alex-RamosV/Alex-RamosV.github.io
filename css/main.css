@@ -159,6 +159,7 @@ body {
 .about-me p {
     font-size: 15px;
     font-weight: 400;
+        text-align: justify;
     color: #000000;
     line-height: 28px;
     margin: 20px 0 40px 0;
@@ -507,6 +508,7 @@ body {
 .blog .box p {
     font-size: 14px;
     font-weight: 400;
+        text-align: justify;
     color: #ffffff;
     line-height: 26px;
 }
