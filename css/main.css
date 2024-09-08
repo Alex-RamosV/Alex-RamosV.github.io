@@ -93,7 +93,7 @@ body {
     font-family: 'Muli', sans-serif !important;
     font-weight: 700;
     text-transform: uppercase;
-    color: #e0a80d;
+    color: #e8b61f;
 }
 
 
@@ -125,12 +125,12 @@ body {
 }
 
 .slider .left-content .btn {
-    border: 2px solid #e0a80d;
+    border: 4px solid #e0a80d;
     border-radius: 35px;
     padding: 10px 30px;
-    font-size: 16px;
+    font-size: 18px;
     color: #ffffff;
-    font-weight: 600;
+    font-weight: 700;
     margin-top: 20px;
     text-decoration: none;
     z-index: 200;
@@ -276,13 +276,13 @@ body {
 
 .portfolio {
     padding: 80px 0 96px 0;
-    background: #2d2e2e;
+    background: #1965dd;
 }
 
 .portfolio h2 {
     font-size: 30px;
     font-weight: 800;
-    color: #e0a80d;
+    color: #ffffff;
     margin-bottom: 60px;
 }
 
@@ -447,13 +447,13 @@ body {
 
 .blog {
     padding: 80px;
-    background: #2d2e2e;
+    background: #1965dd;;
 }
 
 .blog h2 {
     font-size: 30px;
     font-weight: 800;
-    color: #e0a80d;
+    color: #ffffff;
     margin-bottom: 60px;
 }
 
