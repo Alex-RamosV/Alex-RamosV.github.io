@@ -463,7 +463,14 @@ body {
     font-size: 30px;
     font-weight: 800;
     color: #ffffff;
-    margin-bottom: 60px;
+    margin-bottom: 12px;
+}
+
+.blog h3 {
+    font-size: 18px;
+    font-weight: 500;
+    color: #ffffff;
+    margin-bottom: 12px;
 }
 
 .blog .box {
