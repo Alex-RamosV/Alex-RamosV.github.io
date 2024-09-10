@@ -561,6 +561,10 @@ body {
     color: #eee;
 }
 
+.contact .image {
+    padding: 24px;
+}
+
 
 /* ==========================
    [10]. Footer
