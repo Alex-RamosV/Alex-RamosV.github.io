@@ -639,7 +639,7 @@ body {
      /* Slider*/
      .slider {
         height: calc(100vh - 80px);
-        margin-top: 80px;
+        margin-top: 60px;
      }
 
     .slider .left-content {
