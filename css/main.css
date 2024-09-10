@@ -284,11 +284,12 @@ body {
     font-size: 30px;
     font-weight: 800;
     color: #ffffff;
-    margin-bottom: 60px;
+    margin-bottom: 12px;
 }
 
 .portfolio .button-group {
-    margin-bottom: 30px;
+    margin-bottom: 32px;
+        margin-top: 60px;
 }
 
 .portfolio .button-group button {
