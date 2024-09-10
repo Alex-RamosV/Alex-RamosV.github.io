@@ -287,6 +287,13 @@ body {
     margin-bottom: 12px;
 }
 
+.portfolio h3 {
+    font-size: 18px;
+    font-weight: 500;
+    color: #ffffff;
+    margin-bottom: 12px;
+}
+
 .portfolio .button-group {
     margin-bottom: 32px;
         margin-top: 60px;
