@@ -186,6 +186,12 @@ body {
     text-decoration: none;
 }
 
+.about-me .button-group {
+      display: flex;
+      gap: 15px;
+      margin-top: 20px;
+  }
+
 
 
 /* ==========================
